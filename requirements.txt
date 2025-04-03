@@ -3,3 +3,8 @@ numpy
 google-api-python-client
 google-auth
 google-auth-httplib2
+
+gdown
+supervision>=0.20.0
+tqdm
+ultralytics
