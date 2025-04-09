@@ -1,0 +1,7 @@
+opencv-python
+numpy
+PyDrive
+tqdm
+gdown
+supervision>=0.20.0
+ultralytics

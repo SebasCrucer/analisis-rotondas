@@ -1,0 +1,27 @@
+{
+    "id": "97B94B50",
+    "path": "~/Dev/analisis-rotondas/r/asociacion.R",
+    "project_path": "asociacion.R",
+    "type": "r_source",
+    "hash": "1728535772",
+    "contents": "",
+    "dirty": false,
+    "created": 1744229213208.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "58,4",
+        "scrollLine": "40"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1744229261,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744229261075,
+    "read_only": false,
+    "read_only_alternatives": []
+}
